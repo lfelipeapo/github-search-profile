@@ -1,6 +1,6 @@
 {
   "name": "github-search-profile",
-  "homepage": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://lfelipeapo.github.io/github-search-profile",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
