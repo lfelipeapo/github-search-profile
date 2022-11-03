@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "./static/js/main.c4f42481.js",
-    "index.html": "./index.html",
-    "main.c4f42481.js.map": "./static/js/main.c4f42481.js.map"
+    "main.js": "/github-search-profile/static/js/main.cbee9b53.js",
+    "index.html": "/github-search-profile/index.html",
+    "main.cbee9b53.js.map": "/github-search-profile/static/js/main.cbee9b53.js.map"
   },
   "entrypoints": [
-    "static/js/main.c4f42481.js"
+    "static/js/main.cbee9b53.js"
   ]
 }
